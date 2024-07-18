@@ -1,0 +1,15 @@
+Variavel,Descrição,Tipo,Subtipo
+RowNumber,O número sequencial atribuído a cada linha no conjunto de dados.,Quantitativo,Discreta
+CustomerId,Identificador único de cada cliente,Qualitativo,Nominal
+Surname,Indica o sobrenome do cliente.,Qualitativa,Nominal
+CreditScore,Indica a pontuação de crédito do cliente.,Quantitativa,Discreta
+Geography,Localização geográfica do cliente (país ou região),Qualitativa,Nominal
+Gender,Gênero do cliente,Qualitativa,Nominal
+Age,Idade do cliente,Quantitativa,Discreta
+Tenure,Indica número de anos que o cliente está no banco.,Quantitativa,Discreta
+Balance,Indica o saldo da conta do cliente,Quantitativa,Contínua
+NumOfProducts,Indica o número de produtos bancários que o cliente possui,Quantitativa,Discreta
+HasCrCard,Indica se o cliente tem cartão de crédito (sim ou nao),Qualitativo,Nominal
+IsActiveMember,Indica se o cliente é um membro ativo (sim ou nao),Qualitativo,Nominal
+EstimatedSalary,Indica o salário estimado do cliente,Qauntitativo,Contínua
+Exited,Indica se o cliente saiu ou não do banco (sim ou nao),Qualitativo,Nominal
