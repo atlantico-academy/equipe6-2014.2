@@ -1,11 +1,18 @@
-# <Título do projeto>
+# Análise de Churn de Clientes em um Banco
 
-Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
+Este projeto tem como objetivo analisar o churn (taxa de perda de clientes) em um banco, compreendendo por que alguns clientes deixam de utilizar os serviços bancários. A análise de churn é crucial para a retenção de clientes e para a tomada de decisões estratégicas. 
+
+# Justificativa:
+
+- A retenção de clientes é fundamental para o sucesso de qualquer instituição financeira.
+- Compreender os fatores que levam ao churn permite implementar ações preventivas e melhorar a satisfação do cliente.
+- A análise de churn pode fornecer insights valiosos para a gestão, ajudando a reduzir a perda de receita.
 
 ## Desenvolvedores
- - [Nome do desenvolvedor #1](url-do-github-do-desenvolvedor-#1)
+ - [Gabriel Azevedo  #1](https://github.com/GabrielAzevedoo)
  - [Nome do desenvolvedor #2](url-do-github-do-desenvolvedor-#2)
  - [Nome do desenvolvedor #3](url-do-github-do-desenvolvedor-#3)
+ - [Nome do desenvolvedor #4](url-do-github-do-desenvolvedor-#4)
  - [Nome do desenvolvedor #4](url-do-github-do-desenvolvedor-#4)
  - ...
 
