@@ -1,6 +1,6 @@
 Variavel,Descrição,Tipo,Subtipo
 RowNumber,O número sequencial atribuído a cada linha no conjunto de dados.,Quantitativo,Discreta
-CustomerId,Identificador único de cada cliente,Qualitativo,Nominal
+CustomerId,Identificador único de cada cliente,Quantitativo,Discreta
 Surname,Indica o sobrenome do cliente.,Qualitativo,Nominal
 CreditScore,Indica a pontuação de crédito do cliente.,Quantitativo,Discreta
 Geography,Localização geográfica do cliente (país ou região),Qualitativo,Nominal
