@@ -1,13 +1,16 @@
-### Análise Preditiva da Rotatividade de Clientes Bancários
+### Análise de Churn de Clientes
 
-A análise preditiva da rotatividade de clientes bancários tem como objetivo identificar e compreender os fatores que levam clientes a deixarem o banco. Utilizando um conjunto de dados detalhados sobre os clientes e seu status de rotatividade, este projeto explora padrões e variáveis que influenciam a decisão dos clientes de permanecer ou sair da instituição.
+O objetivo deste projeto é analisar os dados de clientes de um banco para identificar os fatores que influenciam a saída dos clientes (churn). Com base nessa análise, podemos desenvolver estratégias para reduzir a taxa de churn e melhorar a retenção de clientes.
+
+
 
 #### Necessidade e Importância do Projeto
 
-A rotatividade de clientes, também conhecida como churn, é um problema crítico para as instituições bancárias, uma vez que a perda de clientes pode impactar negativamente a receita e a estabilidade financeira do banco. Além disso, adquirir novos clientes é geralmente mais custoso do que reter os existentes. Portanto, entender os motivos que levam à rotatividade é essencial para desenvolver estratégias eficazes de retenção.
+A análise de churn de clientes é essencial para qualquer negócio que dependa de uma base de clientes recorrente. A retenção de clientes existentes é geralmente mais econômica do que a aquisição de novos clientes, e a perda de clientes pode ter um impacto significativo nas receitas e na sustentabilidade a longo prazo. Aqui estão algumas razões detalhadas que destacam a importância desse projeto:
 
 
 ### Gráfico
+![image](https://github.com/user-attachments/assets/d60948cd-fa19-422e-9f9c-53adc785be9a)
 
 
 ## Desenvolvedores
