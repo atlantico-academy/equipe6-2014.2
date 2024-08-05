@@ -12,3 +12,4 @@ A rotatividade de clientes, também conhecida como churn, é um problema crític
 
 ## Desenvolvedores
  - [Gabriela Zerbone](https://github.com/gzerbone)
+ - [Gabriela Zerbone](https://github.com/GabrielAzevedoo)
