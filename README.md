@@ -10,7 +10,8 @@ A análise de churn de clientes é essencial para qualquer negócio que dependa 
 
 
 ### Gráfico
-![image](https://github.com/user-attachments/assets/d60948cd-fa19-422e-9f9c-53adc785be9a)
+![image](https://github.com/user-attachments/assets/c208fcc7-314d-48c7-90c7-0ed02dd8af99)
+
 
 
 ## Desenvolvedores
