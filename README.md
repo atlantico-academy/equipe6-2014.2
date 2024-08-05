@@ -1,3 +1,8 @@
+<div align="center">
+ <img src="https://github.com/user-attachments/assets/8202ce5a-ceda-424d-b027-fd47808ea034" alt="Logo" style="width: 170px; height: 170px; margin-right: 10px;">
+</div>
+
+
 ### Análise de Churn de Clientes
 
 O objetivo deste projeto é analisar os dados de clientes de um banco para identificar os fatores que influenciam a saída dos clientes (churn). Com base nessa análise, podemos desenvolver estratégias para reduzir a taxa de churn e melhorar a retenção de clientes.
